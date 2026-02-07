@@ -31,3 +31,21 @@ The app is built using modern Android development practices, including Kotlin, V
 
 
 ![Screenshot_2026-02-07-19-24-19-47_2c9161a24882532fe02ff72db9daadf8](https://github.com/user-attachments/assets/0051c2f9-75a5-4931-acc2-6e4353ab5d98)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot_2026-02-07-21-30-58-62_2c9161a24882532fe02ff72db9daadf8](https://github.com/user-attachments/assets/a2dce029-ae9e-4665-997d-1d6d7b4c0926)
