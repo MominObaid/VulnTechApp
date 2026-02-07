@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">VulnTechApp</string>
-    <string name="community_fragment">Hello Community</string>
-    <string name="course_fragment">Hello Course</string>
     <string name="library_fragment">Hello Library</string>
+    <string name="course_fragment">Hello Course</string>
     <string name="library">Library</string>
     <string name="home">Home</string>
     <string name="courses">Courses</string>
