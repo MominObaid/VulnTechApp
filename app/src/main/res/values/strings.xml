@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">VulnTechApp</string>
+    <string name="library_fragment">Hello Library</string>
+    <string name="course_fragment">Hello Course</string>
+    <string name="library">Library</string>
+    <string name="home">Home</string>
+    <string name="courses">Courses</string>
+    <string name="community">Community</string>
+    <string name="textView_name">SQL Injection 101</string>
+    <string name="textView_category_web">Category: Web</string>
+    <string name="textView_points">Points: 100</string>
+    <string name="textVIew_solves">Solves: 60</string>
 </resources>
