@@ -66,7 +66,8 @@ class HomeFragment : Fragment() {
             HomeData(7, "Simple Reverse Engineering", "Reverse", 200, 305),
             HomeData(8, "Memory Forensics", "Forensics", 250, 210),
             HomeData(9, "Buffer Overflow Prep", "Pwn", 400, 88),
-            HomeData(10, "Simple Reverse Engineering", "Reverse", 200, 305)
+            HomeData(10, "Simple Reverse Engineering", "Reverse", 200, 305),
+            HomeData(11,"RSA Encryption","Cryptocurrency",100,150)
         )
     }
 }
