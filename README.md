@@ -37,7 +37,17 @@ The app is built using modern Android development practices, including Kotlin, V
 
 
 
+**Future Work**
 
+•[ ] Implement ViewModel and LiveData/StateFlow to manage UI state.
+
+•[ ] Connect to a real backend API (e.g., using Retrofit) to fetch live data.
+
+•[ ] Add a local database (e.g., using Room) for offline caching.
+
+•[ ] Flesh out the Scoreboard, Profile, and About screens with real functionality.
+
+•[ ] Write unit and UI tests
 
 
 
