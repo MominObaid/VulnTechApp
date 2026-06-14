@@ -47,5 +47,4 @@ The app is built using modern Android development practices, including Kotlin, V
 
 
 
-
 <img src = "https://github.com/user-attachments/assets/a2dce029-ae9e-4665-997d-1d6d7b4c0926" width="300">
