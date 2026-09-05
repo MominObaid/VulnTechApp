@@ -4,9 +4,7 @@ VulnTechApp is a modern Android application designed as a mobile client for the 
 
 It provides users with a clean, mobile-friendly interface to browse and view Courses and manage their profiles.
 
-
 The app is built using modern Android development practices, including Kotlin, View Binding, and the Jetpack Navigation Component.
-
 
 
 **Features**
