@@ -6,7 +6,6 @@ It provides users with a clean, mobile-friendly interface to browse and view Cou
 
 The app is built using modern Android development practices, including Kotlin, View Binding, and the Jetpack Navigation Component.
 
-
 **Features**
 
 
