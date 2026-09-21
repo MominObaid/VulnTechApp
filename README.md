@@ -23,8 +23,6 @@ The app is built using modern Android development practices, including Kotlin, V
 
 
 
-
-
 **Future Work**
 
 •[ ] Implement ViewModel and LiveData/StateFlow to manage UI state.
